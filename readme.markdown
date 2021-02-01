@@ -8,7 +8,7 @@ Project's architecture:
 
 # Install and configure dependencies
 
-- `npm init` or `npm install`
+- launch `npm install` after having cloned the repo locally
 
 # Execute project with nodemon, watch & concurrently
 
